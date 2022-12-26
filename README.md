@@ -1,4 +1,6 @@
-### Hello there!😁
+### 
+
+<h1>Hello there!😁 <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dvkwgt94s/image/upload/v1672097368/ezgif.com-gif-maker_w7evii.gif"/></h1>
 
 - English / Português-BR
 - 🦆 I’m a full-stack developer. / Eu sou um desenvolvedor full-stack.
