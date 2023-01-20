@@ -48,6 +48,9 @@
   
   <div>
     <h2> Perfil stats: </h2>
-   
+    <a href="https://github.com/Lucas-Vinicius-Rodrigues-e-Silva">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucas-Vinicius-Rodrigues-e-Silva&theme=radical&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-Vinicius-Rodrigues-e-Silva&theme=radical&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
+  </a>
   </div>
 
