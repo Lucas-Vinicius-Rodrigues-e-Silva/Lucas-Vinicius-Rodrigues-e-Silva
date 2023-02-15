@@ -17,11 +17,11 @@
 - 📫 <strong>How to reach me:<strong> ⬇️
   
 - <a href="https://www.linkedin.com/in/lucas-vinicius-rodrigues-e-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a/>
-   <a href="https://lucas-vinicius-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+    <a href="https://lucas-vinicius-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
- <a/> 
+    <a/> 
+  
 
   <div align="center">
     <h2>
