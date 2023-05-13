@@ -8,8 +8,6 @@
   
 - 🦆 I’m a full-stack developer.
  
-- 👨🏽‍🏫 I’m currently learning back-end development at Kenzie Academy Brasil.
- 
 - 🎯 My soft-skills: fast learning, responsible, dedicated and communicative. 
  
 - 🔍 I'm looking for my first job opportunity as a developer.
