@@ -4,7 +4,7 @@
 
 <div align="flex-start">
   
-  <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dvkwgt94s/image/upload/v1683943855/animation_500_lhlco831_utolrs.gif"/>
+  <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dvkwgt94s/image/upload/v1683944349/animation_500_lhlco831_gzbxbk.gif"/>
   
 - 🦆 I’m a full-stack developer.
  
