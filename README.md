@@ -4,8 +4,6 @@
 
 <div align="flex-start">
   
-  <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dvkwgt94s/image/upload/v1683944349/animation_500_lhlco831_gzbxbk.gif"/>
-  
 🚀 Welcome to my coding world! 🌟
 
 👋 Hi, I'm Lucas Rodrigues e Silva, a passionate Full-Stack developer on a constant journey of growth.
