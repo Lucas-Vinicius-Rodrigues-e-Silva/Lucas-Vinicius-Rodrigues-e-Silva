@@ -6,11 +6,17 @@
   
   <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dvkwgt94s/image/upload/v1683944349/animation_500_lhlco831_gzbxbk.gif"/>
   
-- 🦆 I’m a full-stack developer.
- 
-- 🎯 My soft-skills: fast learning, responsible, dedicated and communicative. 
- 
-- 🔍 I'm looking for my first job opportunity as a developer.
+🚀 Welcome to my coding world! 🌟
+
+👋 Hi, I'm Lucas Rodrigues e Silva, a passionate Full-Stack developer on a constant journey of growth.
+
+💻 Currently pursuing a degree in Analysis and Systems Development at Estácio, I dive deep into web projects, exploring technologies like JavaScript, React, Node.js, TypeScript, and Python.
+
+🌐 My coding journey began at Kenzie Academy Brasil, where I delved into Full-Stack development, and since then, I've been working on various hands-on projects.
+
+🔧 Always seeking interesting challenges, I'm an enthusiast for automation, coding best practices, and innovative solutions.
+
+Let's code together and turn ideas into reality! ✨
 
 - 📫 <strong>How to reach me:<strong> ⬇️
   
